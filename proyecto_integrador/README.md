@@ -1,18 +1,15 @@
-## Getting Started
+# Proyecto de Teoría de la Computación
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este proyecto tiene como objetivo principal realizar el **análisis léxico y sintáctico** de entradas específicas, en el contexto de la materia *Teoría de la Computación*.
 
-## Folder Structure
+## Objetivo
 
-The workspace contains two folders by default, where:
+- Desarrollar herramientas para el análisis léxico y sintáctico.
+- Aplicar conceptos fundamentales de lenguajes formales y autómatas.
+- Implementar una solución que permita identificar estructuras válidas y tokens dentro de una entrada determinada.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Integrantes del grupo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Bauer Luciano**
+- **Bries Exequiel**
+- **Da Silva Marcos**
